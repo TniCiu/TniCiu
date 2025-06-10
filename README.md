@@ -1,6 +1,6 @@
 <!-- TniCiu -->
 <a href="#" target="_blank">
-  <img src="svg/TniCiu.svg" width="1200" alt="TniCiu" />
+  <img src="svg/TniCiu.gif" width="1200" alt="TniCiu" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>

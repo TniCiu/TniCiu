@@ -31,31 +31,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TniCiu&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
 </p>
 
----
-
-<h2 align="center">🌱 About Me</h2>
-
-<p align="center">
-  🚀 Full-stack Developer | Passionate about building web applications & exploring new technologies<br />
-  💬 Always learning & open for collaboration<br />
-  📫 Reach me at: <a href="mailto:youremail@example.com">youremail@example.com</a>
-</p>
-
----
-
-<h2 align="center">📫 Let's Connect!</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-profile/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" height="30" />
-  </a>
-  <a href="https://github.com/your-username" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-171515?logo=github&logoColor=white" height="30" />
-  </a>
-  <a href="https://your-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?logo=firefox-browser&logoColor=white" height="30" />
-  </a>
-</p>

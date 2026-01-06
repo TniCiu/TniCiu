@@ -1,36 +1,64 @@
-<!-- TniCiu -->
-<a href="#" target="_blank">
-  <img src="svg/TniCiu.gif" width="100%" alt="TniCiu Banner" />
-</a>
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Thư Mời Lễ Tốt Nghiệp</title>
+  <style>
+    body {
+      font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+      background: #f6f6f8;
+      margin: 0; padding: 0;
+      display: flex; justify-content: center; align-items: center;
+      height: 100vh;
+    }
+    .card {
+      background: #fff;
+      border-radius: 12px;
+      width: 90%; max-width: 600px;
+      padding: 30px;
+      box-shadow: 0 6px 18px rgba(0,0,0,0.1);
+      text-align: center;
+    }
+    h1 { color: #2c3e50; margin-bottom: 10px; }
+    p { color: #555; line-height: 1.6; }
+    .btn {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 12px 24px;
+      background: #2a9df4;
+      color: #fff;
+      text-decoration: none;
+      border-radius: 6px;
+      font-weight: 600;
+    }
+    .footer {
+      margin-top: 30px;
+      font-size: 14px;
+      color: #888;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>🎓 Thư Mời Lễ Tốt Nghiệp 🎓</h1>
+    <p>Kính gửi: <strong>Quý phụ huynh & bạn bè thân mến</strong>,</p>
 
----
+    <p>Hân hoan thông báo rằng tôi — <strong>[Tên bạn]</strong> — sẽ tổ chức lễ tốt nghiệp vào:</p>
+    <p><strong>🗓 Ngày:</strong> [Ngày lễ tốt nghiệp]<br />
+       <strong>🕒 Giờ:</strong> [Giờ bắt đầu]<br />
+       <strong>📍 Địa điểm:</strong> [Địa điểm tổ chức]
+    </p>
 
-<h2 align="center">🛠 Technologies and Tools 🛠</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" height="25" />
-  <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" height="25" />
-  <img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" height="25" />
-  <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" height="25" />
-  <img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" height="25" />
-  <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" height="25" />
-  <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" height="25" />
-  <img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" height="25" />
-  <img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" height="25" />
-  <img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" height="25" />
-  <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" height="25" />
-  <img src="https://img.shields.io/badge/WordPress-282C34?logo=wordpress&logoColor=21759B" height="25" />
-</p>
+    <p>Sự có mặt của bạn là niềm vinh dự và động lực lớn lao đối với tôi.</p>
 
----
+    <a class="btn" href="https://github.com/TniCiu" target="_blank">
+      ❤️ Xem dự án tại GitHub
+    </a>
 
-<h2 align="center">📊 GitHub Stats & Activity</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TniCiu&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TniCiu&theme=tokyonight&hide_border=true" width="47%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TniCiu&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
-</p>
-
+    <div class="footer">
+      Cảm ơn và trân trọng kính mời!
+    </div>
+  </div>
+</body>
+</html>
